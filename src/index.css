@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* *{
+    scroll-behavior: smooth;
+} */
+body{
+    padding-top: 78px;
+    padding-bottom: 72px;
+}
